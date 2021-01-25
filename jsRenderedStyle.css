@@ -1,0 +1,29 @@
+.js-Task{
+    font-size: 20px;
+   
+}
+.js-divForList{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 740px;
+    background-color: aqua;
+    overflow-wrap: break-word;
+    
+}
+.js-button{
+    min-width: 80px;
+    min-height: 80px;
+    padding: 5px;
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}
+.js-divForParagraph{
+    overflow-wrap: break-word;
+    width: 400px;
+    text-align: center;
+}
